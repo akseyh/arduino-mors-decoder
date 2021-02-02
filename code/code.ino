@@ -58,7 +58,7 @@ char *letterMorsCodes[] = {
     "._._._", // .
     "__..__", // ,
     "..__..", // ?
-    "      ", //  
+    "      ", // space
 };
 
 void setup() {
